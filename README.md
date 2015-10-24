@@ -1,4 +1,4 @@
-# Terceras Jornadas de Periodmismo de Datos
+# Tercer Taller de Producción de Periodmismo de Datos
 
 Madrid, noviembre - diciembre 2015
 
