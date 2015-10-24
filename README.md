@@ -1,4 +1,4 @@
-# Tercer Taller de Producción de Periodmismo de Datos
+# Tercer Taller de Producción de Periodismo de Datos
 
 Madrid, octubre - diciembre 2015
 
