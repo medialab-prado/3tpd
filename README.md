@@ -4,6 +4,7 @@ Madrid, octubre - diciembre 2015
 
 ## Enlaces de interés
 
+-   [Todos los vídeos de la primera sesión de octubre](http://s.coop/1wwq6)
 -   [Convocatoria](http://medialab-prado.es/article/convocatoria-explorando-desigualdad)
 -   [Proyectos seleccionados](http://medialab-prado.es/article/explorando-la-desigualdad-proyectos-seleccionados)
 -   [Presentación Rodrigo Barahona: Midiendo la Desigualdad](https://github.com/medialab-prado/3tpd/raw/master/slides/Midiendo%2520la%2520Desigualdad.pdf)
