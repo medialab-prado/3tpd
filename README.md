@@ -1,6 +1,6 @@
 # Tercer Taller de Producción de Periodismo de Datos 2015 #3tpd
 
-Madrid, octubre - diciembre 2015
+Madrid, 23, 24 y 25 de octubre - 11, 12 y 13 de diciembre 2015
 
 ## Enlaces de interés
 
@@ -12,7 +12,7 @@ Madrid, octubre - diciembre 2015
 -   [Presentacion Friedrich Lindenberg: Digital Research Tools for Investigative Reporters](http://pudo.org/material/investigative-tools/index.html)]()
 -   [Presentación Fernando Blat: Github.com](http://ferblape.github.io/github.com-medialab-desigualdad)
 -   [Presentación Sylke Gruhnwald: Data- and Document-Driven Journalism at Swiss Public Broadcaster SRF](https://github.com/medialab-prado/3tpd/raw/master/slides/151024_Medialab-Madrid.pdf)
--   [Presentación Esperanza de Vida](https://github.com/medialab-prado/3tpd/raw/master/slides/taller%2520esperanza%2520de%2520vida%2520medialab%252024102015.pdf)
+-   [Presentación Esperanza de Vida](https://github.com/medialab-prado/3tpd/blob/master/slides/taller_esperanza_de_vida_medialab_20151024.pdf)
 
 ## Proyectos en GitHub
 
