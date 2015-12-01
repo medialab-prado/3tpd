@@ -2,7 +2,7 @@
 
 El grupo de periodismo de datos de Medialab-Prado ha preparado para otoño una nueva convocatoria de proyectos de periodismo de datos. Si en 2013 escogimos el tema de la energía y en 2014 el del gasto público, en 2015 abordaremos un tema de mucha actualidad, la desigualdad, un concepto que rápidamente asociamos a la desigualdad económica pero que no solo se expresa en ese ámbito. 
 
-![img](//farm4.staticflickr.com/3395/3231685557_7be5bd4607_z_d.jpg "La cure de Repose, <https://flic.kr/p/5Vzewv>")
+[La cure de Repose, <https://flic.kr/p/5Vzewv>](images/hospital.jpg)
 
 Este otoño exploraremos la desigualdad y practicaremos **Periodismo de Datos** a través de 9 proyectos. *Explorando la desigualdad* es un taller de producción de periodismo de datos que se celebra del 23 al 25 de octubre y del 11 al 13 de diciembre de 2015. Lxs colaboradorxs participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
 
@@ -73,6 +73,34 @@ En el campo de "Comentarios" debes indicar:
 
 Con el apoyo de ElConfidencial.com, la fundación porCausa, Oxfam Intermón, y Huffington Post
 
+# Biografías
+
+## Sylke Gruhnwald
+
+Sylke Gruhnwald ([@sylkegruhnwald](https://www.twitter.com/sylkegruhnwald)) es redactora jefe del equipo de periodismo de datos de la radio televisión suiza SRF ([Schweizer Radio und Fernsehen](http://www.srf.ch)). Anteriormente fue redactora jefe del equipo de periodismo de datos del diario suizo [Neue Zürcher Zeitung](http://www.nzz.ch/data/).
+
+Ha estudiado chino y administración internacional de empresas en Munich y Viena con el foco el la ayuda al desarrollo internacional y las microfinanzas. Ha trabajado para el grupo The Economist y su unidad de análisis, así como en varios blogs. También ha participado en Lobbywatch ([@lobbywatch](https://www.twitter.com/lobbywatch)) y es cofundadora de [Hacks/Hackers Zurich](https://twitter.com/HacksHackersZRH).
+
+## Xosé Manuel Vilán
+
+Xosé Manuel Vilán ([@xvilan](https://www.twitter.com/xvilan)) es graduado en Ingeniería Forestal y consultor en el sector del medio ambiente. He trabajado, principalmente, para el Ministerio de Agricultura, Alimentación y Medio Ambiente en el programa de Caminos Naturales y en la Estrategia Nacional de Restauración de Ríos, lo que le ha proporcionado una amplia experiencia en los sistemas de información geográfica y en bases de datos.
+
+También participa en GeoInquietos ([@geoinquietosmad](https://twitter.com/GeoinquietosMad)) y en actividades del grupo de periodismo de datos de Medialab-Prado.
+
+## Friedrich Lindenberg
+
+Friedrich Lindenberg ([@pudo](https://www.twitter.com/pudo)) es un programador y perdiodista de datos con tecnología web en nuevas técnicas narrativas y de investigación. Fue becario de ICFJ Knight International Journalism en 2014 en el proyecto Code for Africa, and becario Knight-Mozilla OpenNews en 2013 en el diario alemán Spiegel. Anteriormente ha participado en numerosos proyectos de Open Knowledge, entre los que destaca OpenSpending, una plataforma que ayuda a la ciudadanía a rastrear el gasto público de los gobiernos.
+
+## Fernando Blat
+
+Fernando Blat ([@ferblape](https://www.twitter.com/ferblape)) es programador web desde diez años, cuando entró en The Cocktail para un puesto de Ruby on Rails. Desde entonces lleva programando aplicaciones web en empresas propias y ajenas. Ahora acaba de arrancar un estudio llamado [Populate](http://populate.tools/) para desarrollar herramientas de participación y transparencia.
+
+Participa activamente en el grupo de usuarios de Ruby, y en concursos y hackathones relaciones con datos abiertos, como el Abredatos o el Jacathon. También es profesor de programación y ponente eventual allá donde le dejan soltar su rollo.
+
+## Isabel Inés (Ludita)
+
+Isabel Inés ([@ludita](https://www.twitter.com/ludita)) es una Aventurera de corazón que lleva años viajando por los remotos mares del diseño. Ha pasado de aprendiz a maestra casi sin darse cuenta: cuanto más sabe, más ve todo lo que le falta por aprender. Eso no impide que lleve con soltura los galones de capitana de [La Nave Nodriza](http://lanavenodriza.com), en la que sigue explorando tierras desconocidas.
+
 # Archivo
 
 -   [Todos los vídeos de la primera sesión de octubre](http://s.coop/1wwq6)
@@ -84,3 +112,38 @@ Con el apoyo de ElConfidencial.com, la fundación porCausa, Oxfam Intermón, y H
 -   [Presentación Fernando Blat: Github.com](http://ferblape.github.io/github.com-medialab-desigualdad)
 -   [Presentación Sylke Gruhnwald: Data- and Document-Driven Journalism at Swiss Public Broadcaster SRF](https://github.com/medialab-prado/3tpd/raw/master/slides/151024_Medialab-Madrid.pdf)
 -   [Presentación Esperanza de Vida](https://github.com/medialab-prado/3tpd/blob/master/slides/taller_esperanza_de_vida_medialab_20151024.pdf)
+
+# Equipos
+
+## Radiografía de la sanidad
+
+-   1 Diseñador gráfico
+-   1 Periodista de datos
+-   1 Profesional sanidad
+
+## Atención a la dependencia en España
+
+-   4 Periodistas de datos, lxs 4 promotorxs del proyecto.
+-   1 Ingeniero informático
+-   1 Ingeniero industrial
+-   1 Periodista
+-   1 Politólogo y diseñador (se cambia a la Radiografía de la Sanidad)
+-   1 Periodista y diseñador
+
+## Tanto tienes, tanto enfermas
+
+-   3 Personal sanitario, lxs 3 promotorxs del proyecto
+-   1 periodista
+-   1 diseñador gráfico
+-   2 programadorxs
+-   1 diseño web y visualización
+
+## Díme dónde vives y te diré
+
+-   1 fotógrafo
+-   1 técnico de bases de datos
+-   1 visualizador de datos
+-   1 periodista de datos
+-   1 redactor
+-   1 periodista multimedia
+-   1 sociólogo
