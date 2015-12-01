@@ -2,7 +2,7 @@
 
 El grupo de periodismo de datos de Medialab-Prado ha preparado para otoño una nueva convocatoria de proyectos de periodismo de datos. Si en 2013 escogimos el tema de la energía y en 2014 el del gasto público, en 2015 abordaremos un tema de mucha actualidad, la desigualdad, un concepto que rápidamente asociamos a la desigualdad económica pero que no solo se expresa en ese ámbito. 
 
-[La cure de Repose, <https://flic.kr/p/5Vzewv>](images/hospital.jpg)
+![img](images/hospital.jpg "La cure de Repose, <https://flic.kr/p/5Vzewv>")
 
 Este otoño exploraremos la desigualdad y practicaremos **Periodismo de Datos** a través de 9 proyectos. *Explorando la desigualdad* es un taller de producción de periodismo de datos que se celebra del 23 al 25 de octubre y del 11 al 13 de diciembre de 2015. Lxs colaboradorxs participarán en la producción de alguno de los proyectos, trabajando con datos en equipos multidisciplinares que lleven a cabo buenas historias periodísticas.
 
