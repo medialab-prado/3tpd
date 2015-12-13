@@ -20,7 +20,7 @@ La convocatoria de colaboradorxs cerró el 21 de octubre y la inscripción fue l
 
 # Organización
 
-El taller está coordinado por  [Adolfo Antón Bravo](http://medialab-prado.es/person/adolfoanton) ([@adolflow](https://www.twitter.com/adolflow)) y Soniacon el apoyo técnico de , y Fernando Blat ([@ferblape](https://twitter.com/ferblape)).
+El taller está coordinado por  [Adolfo Antón Bravo](http://medialab-prado.es/person/adolfoanton) ([@adolflow](https://www.twitter.com/adolflow)) y Sonia con el apoyo técnico de Fernando Blat ([@ferblape](https://twitter.com/ferblape)).
 
 Los proyectos tienen un [espacio en la Comunidad de Medialab-Prado](http://comunidad.medialab-prado.es/es/proyectos/iii-taller-de-periodismo-de-datos-explorando-la-desigualdad) para desarrollarse y el GitHub de Medialab-Prado.
 
@@ -112,6 +112,7 @@ Isabel Inés ([@ludita](https://www.twitter.com/ludita)) es una Aventurera de co
 -   [Presentación Fernando Blat: Github.com](http://ferblape.github.io/github.com-medialab-desigualdad)
 -   [Presentación Sylke Gruhnwald: Data- and Document-Driven Journalism at Swiss Public Broadcaster SRF](https://github.com/medialab-prado/3tpd/raw/master/slides/151024_Medialab-Madrid.pdf)
 -   [Presentación Esperanza de Vida](https://github.com/medialab-prado/3tpd/blob/master/slides/taller_esperanza_de_vida_medialab_20151024.pdf)
+-   [Presentación Isa: ¿Cómo diseñar mejor mi web?](https://github.com/medialab-prado/3tpd/blob/master/slides/Ludita_Dise%C3%B1o.pdf)
 
 # Equipos
 
